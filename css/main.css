@@ -8,16 +8,17 @@ html {
 
 body {
     background: #E6E6E6;
-    margin: 0 auto;
     width: 80%;
 	height: 100%;
+    margin: 0 auto;
 }
 
 
 
 #header {
     margin: 0 auto;
-    width: 60%;
+    margin-top: 10px;
+    width: 100%;
     float: left;
     position: relative;
 }
@@ -76,6 +77,8 @@ body {
     float: left;
 }
 
+
+
 .black > h2 {
     color: white;
     font-family: 'Playfair Display', serif;
@@ -92,6 +95,10 @@ body {
     text-align: center;
 }
 
+.blacklang {
+    height: 500px;
+}
+
 
 .white {
     background-color: white;
@@ -100,6 +107,10 @@ body {
     margin: 10px;
     padding: 10px;
     float: left;
+}
+
+.whitelang {
+     height: 500px;
 }
 
 .white > h2 {
@@ -135,4 +146,10 @@ a {
     font-size: 10pt ;
     font-weight: 300;
     text-align: right;
+}
+
+.dienstfoto {
+    width: 50%;
+    margin: 60px;
+    position: relative;
 }
