@@ -245,7 +245,7 @@ a {
     font-weight: 300;
     text-align: justify;
 }
-.contactform {
+.contactform > form > p {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 16pt ;
     font-weight: 300;
