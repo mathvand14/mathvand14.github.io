@@ -13,7 +13,9 @@ body {
     margin: 0 auto;
 }
 
-
+img{
+    margin: 15px;
+}
 
 #header {
     margin: 0 auto;
@@ -193,4 +195,18 @@ a {
 
 .dienstparagraaf {
     width: 100%;
+}
+
+.about {
+    width: 45%;
+}
+
+.fill > p {
+    text-align: justify;
+    margin-left: 0;
+}
+
+.card {
+    width: 45%;
+    float: left;
 }
