@@ -164,6 +164,11 @@ a {
     float: left;
 }
 
+
+.klein {
+    height: 50px;
+}
+
 .paragraaffull {
     margin: 10px;
     margin-left: 0px;
