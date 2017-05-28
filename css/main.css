@@ -210,3 +210,25 @@ a {
     width: 45%;
     float: left;
 }
+
+.paragraafabout {
+    width: 45%;
+    height: 202px;
+    margin-top: 50px;
+    margin-left: 50px;
+    float: left;
+}
+
+.paragraafabout > h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 18pt ;
+    font-weight: 400;
+    text-align: left;
+}
+
+.paragraafabout > p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16pt ;
+    font-weight: 300;
+    text-align: left;
+}
